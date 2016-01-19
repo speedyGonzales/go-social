@@ -1,0 +1,9 @@
+{
+	"secret": "secret",
+	"public_path": "./src/github.com/speedyGonzales/go-social/public",
+	"template_path": "./src/github.com/speedyGonzales/go-social/views",	
+	"database": {
+		"hosts": "localhost",
+		"database": "go-social"
+	}
+}
