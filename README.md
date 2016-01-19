@@ -9,7 +9,8 @@ All your controllers that serve defined routes.
 
 /models
 
-You database models.
+You database models. 
+
 
 /public
 
